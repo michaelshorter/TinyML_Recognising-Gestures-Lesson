@@ -157,6 +157,4 @@ Rebuild and re-add the library every time you retrain.
 - Thresholds are personal. They depend on your model and how you move, so set them again after any retrain.
 - The sketches have not been tested against every Edge Impulse library version, so check your build compiles before the day.
 
-## Licence
 
-Add a licence of your choice before publishing. MIT is a common choice.
